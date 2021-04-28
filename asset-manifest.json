@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/yeongjae96.github.com/movie_app_2021/static/css/main.56597925.chunk.css",
-    "main.js": "/yeongjae96.github.com/movie_app_2021/static/js/main.206cf0cc.chunk.js",
-    "main.js.map": "/yeongjae96.github.com/movie_app_2021/static/js/main.206cf0cc.chunk.js.map",
-    "runtime-main.js": "/yeongjae96.github.com/movie_app_2021/static/js/runtime-main.8f713ee9.js",
-    "runtime-main.js.map": "/yeongjae96.github.com/movie_app_2021/static/js/runtime-main.8f713ee9.js.map",
-    "static/js/2.3fea92d8.chunk.js": "/yeongjae96.github.com/movie_app_2021/static/js/2.3fea92d8.chunk.js",
-    "static/js/2.3fea92d8.chunk.js.map": "/yeongjae96.github.com/movie_app_2021/static/js/2.3fea92d8.chunk.js.map",
-    "index.html": "/yeongjae96.github.com/movie_app_2021/index.html",
-    "static/css/main.56597925.chunk.css.map": "/yeongjae96.github.com/movie_app_2021/static/css/main.56597925.chunk.css.map",
-    "static/js/2.3fea92d8.chunk.js.LICENSE.txt": "/yeongjae96.github.com/movie_app_2021/static/js/2.3fea92d8.chunk.js.LICENSE.txt"
+    "main.css": "/yeongjae96.github.io/movie_app_2021/static/css/main.56597925.chunk.css",
+    "main.js": "/yeongjae96.github.io/movie_app_2021/static/js/main.206cf0cc.chunk.js",
+    "main.js.map": "/yeongjae96.github.io/movie_app_2021/static/js/main.206cf0cc.chunk.js.map",
+    "runtime-main.js": "/yeongjae96.github.io/movie_app_2021/static/js/runtime-main.049a2e03.js",
+    "runtime-main.js.map": "/yeongjae96.github.io/movie_app_2021/static/js/runtime-main.049a2e03.js.map",
+    "static/js/2.3fea92d8.chunk.js": "/yeongjae96.github.io/movie_app_2021/static/js/2.3fea92d8.chunk.js",
+    "static/js/2.3fea92d8.chunk.js.map": "/yeongjae96.github.io/movie_app_2021/static/js/2.3fea92d8.chunk.js.map",
+    "index.html": "/yeongjae96.github.io/movie_app_2021/index.html",
+    "static/css/main.56597925.chunk.css.map": "/yeongjae96.github.io/movie_app_2021/static/css/main.56597925.chunk.css.map",
+    "static/js/2.3fea92d8.chunk.js.LICENSE.txt": "/yeongjae96.github.io/movie_app_2021/static/js/2.3fea92d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f713ee9.js",
+    "static/js/runtime-main.049a2e03.js",
     "static/js/2.3fea92d8.chunk.js",
     "static/css/main.56597925.chunk.css",
     "static/js/main.206cf0cc.chunk.js"
